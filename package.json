@@ -1,0 +1,28 @@
+{
+  "name": "vue-ramda",
+  "version": "1.0.0",
+  "description": "A wrapper for integrating ramda to Vuejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon.Xia",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
+  "keywords": [
+    "vue",
+    "ramda",
+    "vue-ramda",
+    "wrapper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choufeng/vue-ramda.git"
+  },
+  "homepage": "https://github.com/choufeng/vue-ramda#readme",
+  "bugs": {
+    "url": "https://github.com/choufeng/vue-ramda/issues"
+  }
+}
