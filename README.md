@@ -1,5 +1,5 @@
 # vue-ramda
-A wrapper for integrating ramda to Vuejs
+A wrapper for integrating [ramda](http://ramdajs.com/) to [Vuejs](http://vuejs.org)
 
 ## How to use it
 
@@ -15,8 +15,14 @@ import VueRamda from 'vue-ramda'
 Vue.use(VueRamda)
 ```
 
-use it in .vue file:
+use it in `.vue` file:
 
 ```
 this.$R.add(1, 2)
 ```
+
+## Function List
+[See ramda document](http://ramdajs.com/docs/)
+
+## Licensing
+MIT License Copyright (c) 2017 Jon Xia
