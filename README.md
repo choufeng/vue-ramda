@@ -29,4 +29,4 @@ this.$R.add(1, 2)
 [See ramda documentation](http://ramdajs.com/docs/)
 
 ## Licensing
-MIT License Copyright (c) 2018 Jon Xia
+MIT License
